@@ -12,7 +12,7 @@ class Constant {
   // static String api_suffix = '.php';
 
   //customer's paid Google Map API Key
-  static String gmap_api_key = 'AIzaSyBki-XO-X3fW3bAwC0Aj2WtlZ_rc3AMn-0';
+  static String gmap_api_key = '';
 
   static const String AUTH0_DOMAIN = 'dev-y2irjqfo.us.auth0.com';
   static const String AUTH0_CLIENT_ID = 'WcLNvoBF4ibbYV88FDyj5lXCPKVZRl8t';
