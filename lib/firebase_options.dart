@@ -44,38 +44,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCzKxAjS-f_y9ZbeaUMaUbZDKymyQW2RD8',
-    appId: '1:704893967393:web:74d0c6ae6e954f0dde9760',
-    messagingSenderId: '704893967393',
-    projectId: 'ltldriver',
-    authDomain: 'ltldriver.firebaseapp.com',
-    storageBucket: 'ltldriver.appspot.com',
-    measurementId: 'G-LRHGW6ZQJQ',
+  
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAaoZ3MyqxI9CN0LxcVJRbRW_smSpHz1rs',
-    appId: '1:704893967393:android:f9782f6f7960a1f8de9760',
-    messagingSenderId: '704893967393',
-    projectId: 'ltldriver',
-    storageBucket: 'ltldriver.appspot.com',
+    
+  
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA7cL5GVpLCEI4mY4VVxPMVm20egtg5X0Q',
-    appId: '1:704893967393:ios:0cb0d88997c2bb63de9760',
-    messagingSenderId: '704893967393',
-    projectId: 'ltldriver',
-    storageBucket: 'ltldriver.appspot.com',
-    iosBundleId: 'com.ltldriver.mobile',
+   
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA7cL5GVpLCEI4mY4VVxPMVm20egtg5X0Q',
-    appId: '1:704893967393:ios:b7cfced1667d54f9de9760',
-    messagingSenderId: '704893967393',
-    projectId: 'ltldriver',
-    storageBucket: 'ltldriver.appspot.com',
-    iosBundleId: 'com.example.opentrip.RunnerTests',
+    
   );
 }
